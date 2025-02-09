@@ -107,11 +107,6 @@ ChatGPT was incredibly helpful throughout this project:
     Pixel Manipulation: Suggested different pixel manipulations like grayscale and color inversion, which made the mirror visually interesting.
     Debugging and Optimization: Guided me in troubleshooting issues related to lag and overlapping pixel effects, ensuring smooth real-time performance.
 
-## Screenshots
-
-    - Initial Setup - Live Video Feed : Screenshot showing the initial video feed before any manipulations.
-
-    - Pixel Manipulation Effects : Include a screenshot showing the different regions with their respective effects (inverted, grayscale, and RGB-shifted).
 
 ### Ideas for Further Development
 
